@@ -5,6 +5,7 @@
   <head>
     <meta charset="UTF-8">
     <title>Registration Form</title>
+    
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
@@ -106,4 +107,4 @@ input[type="file"] {
 a {
 color: #dfdfe2;
 }
-</style>
+
